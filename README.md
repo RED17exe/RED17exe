@@ -29,7 +29,8 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RED17exe&show_icons=true&theme=tokyonight&hide_border=false" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RED17exe&theme=tokyonight&hide_border=false" width="47%" />
+  <img src="https://streak-stats.demolab.com?user=RED17exe&theme=tokyonight&hide_border=false" width="47%" />
+
 </p>
 
 <p align="center">
