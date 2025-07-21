@@ -14,7 +14,14 @@
 ---
 
 ### 🌟 About Me
-- 🌱 I’m currently learning **DSA, Full Stack Web Development**
+- 🌱 💻 I'm a passionate Web Developer and C++ Enthusiast, currently diving deep into:
+
+- 💡 Data Structures & Algorithms using C++
+- 🌐 Full Stack Web Development
+  - ✅ Frontend: HTML, CSS, JavaScript, React.js
+  - 🔄 Backend: Currently learning Node.js, Express & MongoDB
+- 🛠️ Actively building projects to sharpen problem-solving and full stack skills
+
 - 👨‍💻 My Portfolio: [my-portfolioo-five.vercel.app](https://my-portfolioo-five.vercel.app/)
 - 📫 Contact me at: **adityashankar1726@gmail.com**
 
