@@ -69,11 +69,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=red17exe&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true" width="45%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=red17exe&theme=tokyonight&layout=compact&hide_border=false" width="45%" />
 
-
-
----
-
-<!-- Optional: Profile Visitors -->
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=RED17exe&label=Profile%20Views&color=0e75b6&icon=0&pretty=false" />
-</p>
