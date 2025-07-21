@@ -34,7 +34,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiiiofficial&layout=compact&theme=tokyonight&hide_border=false" width="47%" />
+ <img src="https://streak-stats.demolab.com?user=RED17exe&theme=tokyonight&hide_border=false" width="47%" />
+
 </p>
 
 ---
