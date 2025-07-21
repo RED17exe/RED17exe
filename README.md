@@ -15,7 +15,7 @@
 - 📚 I’m practicing **DSA in C++**
 - 👯 I’m looking to collaborate on **Web Development Projects**
 - 🎯 Goal: Master Full Stack Development & Problem Solving
-- 📫 Reach me: **[YourEmail@example.com]**
+- 📫 Reach me: **adityashankar172@gmail.com**
 
 ---
 
