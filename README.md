@@ -1,49 +1,79 @@
-<!-- GitHub Profile README -->
-
-<h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">💻 Aspiring Software Developer | Full Stack Learner | DSA in C++</h3>
+<h1 align="center">Hi 👋, I'm ADITYA SHANKAR LAL</h1>
+<h3 align="center">A passionate Frontend Developer & Competitive Programmer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=DSA+%7C+Full+Stack+Developer;Learning+C%2B%2B%2C+Node.js%2C+MongoDB;React+%7C+JavaScript+%7C+HTML+%7C+CSS" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=RED17exe&label=Profile%20views&color=0e75b6&style=flat" alt="RED17exe" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RED17exe&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=15" alt="trophies" />
+  </a>
 </p>
 
 ---
 
-### 🔥 About Me
-- 🌱 I’m currently learning **Backend Development** (Node.js, Express, MongoDB)
-- 💻 I have completed **HTML, CSS, JS, React**
-- 📚 I’m practicing **DSA in C++**
-- 👯 I’m looking to collaborate on **Web Development Projects**
-- 🎯 Goal: Master Full Stack Development & Problem Solving
-- 📫 Reach me: **facc6982@gmail.com**
+### 🌟 About Me
+
+- 🌱 I'm currently learning **DSA, Full Stack Web Development**
+- 🚀 Completed: `HTML`, `CSS`, `JavaScript`, `React.js`
+- 🧠 Learning: `Node.js`, `Express`, `MongoDB`, and practicing `C++ DSA`
+- 💼 Portfolio: [my-portfolioo-five.vercel.app](https://my-portfolioo-five.vercel.app/)
+- 📬 Reach me: **adityashankar1726@gmail.com**
 
 ---
 
-### 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,react,tailwind,nodejs,express,mongodb" />
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/aditya-shankar-lal-48b354320/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/30871233/red-17" target="_blank">
+    <img src="https://img.shields.io/badge/Stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/adiii_17" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/adii__17" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/aadi____17/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+---
+
+### ⚒️ Technologies & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="40" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RED17exe&show_icons=true&theme=tokyonight&hide_border=false" width="47%" />
- 
 
-</p>
-
-
----
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://github.com/RED17exe" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aditya-shankar-lal-48b354320/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="facc6982@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RED17exe&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RED17exe&theme=tokyonight&layout=compact&hide_border=false" width="45%"/>
+  <br /><br />
+  <img src="https://streak-stats.demolab.com?user=RED17exe&theme=tokyonight&hide_border=false" width="93%" />
+</div>
 
 ---
 
-### 🧠 Fun Fact
-> I debug in my dreams sometimes. 🤯  
+<!-- Optional: Profile Visitors -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=RED17exe&label=Profile%20Views&color=0e75b6&icon=0&pretty=false" />
+</p>
