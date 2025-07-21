@@ -2,9 +2,7 @@
 <h3 align="center">Full Stack Web Development · DSA in C++
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RED17exe&label=Profile%20views&color=0e75b6&style=flat" alt="RED17exe" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
