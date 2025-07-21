@@ -69,9 +69,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=red17exe&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true" width="45%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=red17exe&theme=tokyonight&layout=compact&hide_border=false" width="45%" />
 
-  <br /><br />
-  <img src="https://streak-stats.demolab.com?user=RED17exe&theme=tokyonight&hide_border=false" width="93%" />
-</div>
+
 
 ---
 
