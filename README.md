@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ADITYA SHANKAR LAL</h1>
-<h3 align="center">Full Stack Web Development · DSA in C++
+<h3 align="center">DSA in C++ · Full Stack Web Development
 </h3>
 
 
