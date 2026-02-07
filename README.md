@@ -17,8 +17,8 @@
 - 🌱 I'm currently learning **DSA, Full Stack Web Development**
 - 🚀 Completed: `HTML`, `CSS`, `JavaScript`, `React.js`
 - 🧠 Learning: `Node.js`, `Express`, `MongoDB`, and practicing `C++ DSA`
-- 💼 Portfolio: [my-portfolioo-five.vercel.app](https://my-portfolioo-five.vercel.app/)
-- 📬 Reach me: **adityashankar1726@gmail.com**
+- 💼 Portfolio: [my-portfolioo-five.vercel.app](https://adi-portfolio-one.vercel.app/)
+- 📬 Reach me: **facc6982@gmail.com**
 
 ---
 
