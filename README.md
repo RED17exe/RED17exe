@@ -69,7 +69,3 @@ I am open to discussions regarding DSA, Full Stack Engineering, and Backend Perf
 - **Email**: [facc6982@gmail.com](mailto:facc6982@gmail.com)
 - **GitHub**: [aadi17-arch](https://github.com/aadi17-arch)
 - **LinkedIn**: [Aditya Shankar Lal](https://www.linkedin.com/in/aditya-shankar-lal-48b354320/)
-
-<div align="center">
-  <sub>Generated with precision by FreelanceGuard Engineering Team</sub>
-</div>
