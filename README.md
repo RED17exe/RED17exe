@@ -41,7 +41,7 @@ I am a Computer Science student focused on the intersection of **efficient algor
 *A professional-grade cryptocurrency price monitoring dashboard designed for institutional clarity and real-time responsiveness.*
 - **Key Implementation**: Integrated real-time market polling with Firebase Firestore for live state synchronization and persistent user-defined price alerts.
 - **Stack**: React (Hooks/Context), Firebase (Firestore & Auth), CoinGecko API, Vanilla CSS.
-- **Status**: [Live](https://crypto-alert-five.vercel.app/) (or add repo link)
+- **Status**: [Live](crypto-alert-app-gilt.vercel.app)
 
 ---
 
