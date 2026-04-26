@@ -48,8 +48,8 @@ I am a Computer Science student focused on the intersection of **efficient algor
 ## 📈 Technical Impact
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=red17exe&theme=transparent&show_icons=true&hide_border=true&count_private=true&text_color=58a6ff&icon_color=58a6ff&title_color=58a6ff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=red17exe&theme=transparent&layout=compact&hide_border=true&text_color=58a6ff&title_color=58a6ff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aadi17-arch&theme=transparent&show_icons=true&hide_border=true&count_private=true&text_color=58a6ff&icon_color=58a6ff&title_color=58a6ff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadi17-arch&theme=transparent&layout=compact&hide_border=true&text_color=58a6ff&title_color=58a6ff" width="48%" />
 </div>
 
 <div align="center">
@@ -67,6 +67,7 @@ I am a Computer Science student focused on the intersection of **efficient algor
 I am open to discussions regarding DSA, Full Stack Engineering, and Backend Performance.
 
 - **Email**: [facc6982@gmail.com](mailto:facc6982@gmail.com)
+- **GitHub**: [aadi17-arch](https://github.com/aadi17-arch)
 - **LinkedIn**: [Aditya Shankar Lal](https://www.linkedin.com/in/aditya-shankar-lal-48b354320/)
 
 <div align="center">
