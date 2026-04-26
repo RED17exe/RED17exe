@@ -1,113 +1,74 @@
-# Hi 👋 I'm Aditya Shankar Lal
+<div align="center">
 
-**Data Structures & Algorithms Enthusiast | Full Stack Web Developer | Problem Solver**
+# Aditya Shankar Lal
+**Full Stack Software Engineer | Data Structures & Algorithms Specialist**
 
----
-
-## 🎯 About Me
-
-I'm a passionate Computer Science student with a strong focus on **Data Structures & Algorithms in C++** and **Full Stack Web Development**. I love solving complex problems and building elegant solutions through code.
-
-- 🌱 **Currently Learning**: Node.js, Express, MongoDB, Advanced C++ DSA
-- ✅ **Completed**: HTML, CSS, JavaScript, React.js, and Core DSA Concepts
-- 💻 **Expertise**: Full Stack Development, Algorithm Design, Problem Solving
-- 🎓 **Focus Areas**: DSA in C++ • Web Development • Competitive Programming
-- 📧 **Email**: facc6982@gmail.com
-- 🌐 **Portfolio**: [adi-portfolio-one.vercel.app](https://adi-portfolio-one.vercel.app/)
+[Portfolio](https://adi-portfolio-one.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/aditya-shankar-lal-48b354320/) • [Email](mailto:facc6982@gmail.com)
 
 ---
 
-## 🛠️ Technologies & Tools
-
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
-
-## 📚 Skill Categories
-
-| Category | Skills |
-|----------|--------|
-| **DSA & Algorithms** | Arrays, Linked Lists, Trees, Graphs, Sorting, Searching, Dynamic Programming |
-| **Web Development** | Responsive Design, Component Architecture, REST APIs, Full Stack Development |
-| **Problem Solving** | Competitive Programming, Algorithm Optimization, Code Debugging |
-
----
-
-## 🏆 Competitive Programming
-
-I actively participate in competitive programming across multiple platforms:
-
-<div align="left">
-  <a href="https://leetcode.com/u/aadi____17/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://codeforces.com/profile/adii__17" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://www.codechef.com/users/adiii_17" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  <a href="https://stackoverflow.com/users/30871233/red-17" target="_blank">
-    <img src="https://img.shields.io/badge/Stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
-  </a>
 </div>
 
+## 🏗️ Profile
+I am a Computer Science student focused on the intersection of **efficient algorithmic design** and **scalable full-stack architecture**. I specialize in building high-performance web applications and solving complex computational problems through Data Structures and Algorithms in C++.
+
+*   **Engineering Philosophy**: Writing clean, maintainable, and optimized code that scales.
+*   **Current Pursuit**: Advancing in Distributed Systems, Node.js performance optimization, and Competitive Programming.
+
 ---
 
-## 📊 GitHub Statistics
+## 🛠️ Tech Stack & Expertise
+
+### Core Languages & Systems
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,js,html,css,nodejs,express,mongodb,git,github,vercel&theme=dark)](https://skillicons.dev)
+
+### Competencies
+*   **Algorithms**: Dynamic Programming, Graph Theory, Trees, and Complex Data Structures.
+*   **Web Architecture**: RESTful API Design, React Component Architecture, State Management.
+*   **Environment**: Linux/Unix systems, Version Control (Git), CI/CD basics.
+
+---
+
+## 🚀 Featured Projects
+
+### **FreelanceGuard** | *Full Stack Freelance Protocol*
+*A secure, high-end FinTech platform for milestone-based freelance contracts with built-in vault (escrow) services.*
+- **Core Features**: Secure Vault logic, KYC identity verification flow, real-time dashboard metrics.
+- **Technologies**: React, Node.js, Express, Prisma (PostgreSQL), Tailwind CSS.
+- **Status**: [Active Development]
+
+### **CryptoAlert** | *High-Precision Financial Terminal*
+*A professional-grade cryptocurrency price monitoring dashboard designed for institutional clarity and real-time responsiveness.*
+- **Key Implementation**: Integrated real-time market polling with Firebase Firestore for live state synchronization and persistent user-defined price alerts.
+- **Stack**: React (Hooks/Context), Firebase (Firestore & Auth), CoinGecko API, Vanilla CSS.
+- **Status**: [Live](https://crypto-alert-five.vercel.app/) (or add repo link)
+
+---
+
+## 📈 Technical Impact
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=red17exe&theme=default&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=red17exe&theme=default&layout=compact&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=red17exe&theme=transparent&show_icons=true&hide_border=true&count_private=true&text_color=58a6ff&icon_color=58a6ff&title_color=58a6ff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=red17exe&theme=transparent&layout=compact&hide_border=true&text_color=58a6ff&title_color=58a6ff" width="48%" />
 </div>
 
----
-
-## 🔗 Connect With Me
-
-I'm always open to discussing DSA, Web Development, and Competitive Programming. Feel free to reach out!
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/aditya-shankar-lal-48b354320/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<div align="center">
+  <a href="https://leetcode.com/u/aadi____17/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Optimized_Problem_Solving-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
   </a>
-  <a href="mailto:facc6982@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/red17exe" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://codeforces.com/profile/adii__17" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Competitive_Programming-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
   </a>
 </div>
 
 ---
 
-## 💡 What I'm Working On
+## 🔗 Connection
+I am open to discussions regarding DSA, Full Stack Engineering, and Backend Performance.
 
-- 🔨 Building full stack web applications with React, Node.js, and MongoDB
-- 📈 Mastering advanced DSA concepts and competitive programming
-- 🚀 Contributing to open source projects
-- 📖 Documenting my learning journey
+- **Email**: [facc6982@gmail.com](mailto:facc6982@gmail.com)
+- **LinkedIn**: [Aditya Shankar Lal](https://www.linkedin.com/in/aditya-shankar-lal-48b354320/)
 
----
-
-**⭐ Feel free to explore my repositories and connect with me!**
+<div align="center">
+  <sub>Generated with precision by FreelanceGuard Engineering Team</sub>
+</div>
