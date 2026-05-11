@@ -48,14 +48,6 @@ I am an Information Technology student at **BIT Sindri** focused on the intersec
 
 ---
 
-## 💼 Experience & Internships
-
-- **YBI Foundation** | *Python Development Intern (Virtual)* — *July 2025 – Aug 2025*
-  - Developed a weekly meal planning CLI application with robust date/input error-handling.
-  - Used Pandas to parse and aggregate ingredient counts across multi-meal profiles, generating structured CSV reports.
-- **CodSoft** | *Web Development Intern (Virtual)* — *July 2024 – Aug 2024*
-  - Engineered clean landing pages, a responsive portfolio, and an interactive JS calculator using native styling layouts.
-
 ---
 
 ## 📈 Technical Impact & Metrics
