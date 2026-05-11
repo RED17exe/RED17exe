@@ -50,11 +50,6 @@ I am a Computer Science student focused on the intersection of **efficient algor
 ## 📈 Technical Impact
 
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra.dev/api?username=aadi17-arch&theme=transparent&show_icons=true&hide_border=true&count_private=true&text_color=58a6ff&icon_color=58a6ff&title_color=58a6ff" width="48%" />
-  <img src="https://github-readme-stats.anuraghazra.dev/api/top-langs/?username=aadi17-arch&theme=transparent&layout=compact&hide_border=true&text_color=58a6ff&title_color=58a6ff" width="48%" />
-</div>
-
-<div align="center">
   <a href="https://leetcode.com/u/aadi____17/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Optimized_Problem_Solving-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
   </a>
